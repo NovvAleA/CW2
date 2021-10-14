@@ -4,7 +4,7 @@ cmake_minimum_required(VERSION 3.1)
 project(CW2)
 
 set(CW2_SRC main.cpp CIntN.cpp At.cpp CW2.cpp)
-set(CW2_HDR  CIntN.h At.h CW2.h)
+set(CW2_HDR  CIntN.h )
 
 #add_library(vector STATIC ${VECTOR_SRC} ${VECTOR_HDR})
 
